@@ -6,11 +6,11 @@ Yazı Serisi İçeriği
 İlk yazımda GPT modelinin ne olduğunu ve mimarisini adım adım inceledim ve görsel ve kodlar ile anlatımı destekledim . Bu yazıda şu konulara değindim:
 
 - **GPT'nin Tanımı: GPT modelinin ne olduğuna dair temel bilgiler.
-- **Transformer Mimarisi: Transformer mimarisinin temelleri, hangi bileşenlerden oluştuğu.
-- **Multihead Attention: Transformer'daki önemli bileşenlerden biri olan multihead attention mekanizması ve işleyişi.
-- **Layer Normalization (LayerNorm): Modelin eğitiminde önemli bir rol oynayan LayerNorm'un işlevi ve nasıl çalıştığı.
-- **MLP (Multi-Layer Perceptron): GPT'nin yapı taşlarından biri olan MLP'nin detayları.
-- **Sıfırdan GPT Modeli Kodlama: GPT modelini sıfırdan nasıl kodladım, kullanılan teknikler ve detaylar.
+- **Transformer Mimarisi: Transformer mimarisinin temelleri, hangi bileşenlerden oluştuğu.**
+- **Multihead Attention: Transformer'daki önemli bileşenlerden biri olan multihead attention mekanizması ve işleyişi.**
+- **Layer Normalization (LayerNorm): Modelin eğitiminde önemli bir rol oynayan LayerNorm'un işlevi ve nasıl çalıştığı.**
+- **MLP (Multi-Layer Perceptron): GPT'nin yapı taşlarından biri olan MLP'nin detayları.**
+- **Sıfırdan GPT Modeli Kodlama: GPT modelini sıfırdan nasıl kodladım, kullanılan teknikler ve detaylar.**
 Bu yazı, GPT modelinin çalışma prensibini anlamak isteyenlere teknik bir bakış açısı sunmaktadır. Ayrıca, modelin iç yapı taşlarını anlamak ve sıfırdan bir model kodlamak isteyenler için adım adım açıklamalar içermektedir.
 
 [2. GPT Eğitim Süreci: Veri, Kaynaklar ve Teknikler](https://medium.com/@canbing0l/gpt-e%C4%9Fitim-s%C3%BCreci-veri-kaynaklar-ve-teknikler-7915b998cb4d)
